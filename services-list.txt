@@ -1,0 +1,23 @@
+# Common services
+auditd
+chronyd
+crond
+firewalld
+rsyslog
+postfix
+sshd
+systemd-journald
+NetworkManager
+
+# Additional services
+docker
+nginx
+php-fpm
+httpd
+mariadb
+nscd
+
+#
+openvpn@server
+wg-quick@wg0-server
+
